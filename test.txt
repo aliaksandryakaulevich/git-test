@@ -1,2 +1,3 @@
 string 1
 string 2 - the better one
+string 3 - for GUI testing
